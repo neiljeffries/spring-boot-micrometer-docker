@@ -1,0 +1,27 @@
+spring:
+  application:
+    name: demo
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,metrics,prometheus
+  endpoint:
+    health:
+      probes:
+        enabled: true
+  metrics:
+    tags:
+      application: ${spring.application.name}
+      service: "My Test Service"
+    distribution:
+      percentiles-histogram:
+        all: true
+      slo:
+        test_service_request_duration:
+          - 50ms
+          - 100ms
+          - 250ms
+          - 500ms
+          - 1s
