@@ -6,16 +6,16 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/test")
-public class TestController {
+public class MyController {
 
-    private final TestService testService;
+    private final MyService testService;
 
-    public TestController(TestService testService) {
+    public MyController(MyService testService) {
         this.testService = testService;
     }
 
     @GetMapping
-    public TestResponse test() {
+    public MyResponse test() {
         return testService.getTestMessage();
     }
 }

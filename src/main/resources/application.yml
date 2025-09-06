@@ -3,25 +3,44 @@ spring:
     name: demo
 
 management:
-  endpoints:
-    web:
-      exposure:
-        include: health,info,metrics,prometheus
   endpoint:
     health:
       probes:
         enabled: true
+      group:
+        liveness:
+          include: livenessState
+        readiness:
+          include: readinessState
+  endpoints:
+    web:
+      exposure:
+        include: health,info,metrics,prometheus,startup,loggers,threaddump
   metrics:
     tags:
       application: ${spring.application.name}
       service: "My Test Service"
+      environment: ${APP_ENV:local}
+      version: ${APP_VERSION:0.0.1}
     distribution:
       percentiles-histogram:
-        all: true
+        "[http.server.requests]": true
+        "[test_service_request_duration]": true
       slo:
-        test_service_request_duration:
-          - 50ms
-          - 100ms
-          - 250ms
-          - 500ms
-          - 1s
+        "[http.server.requests]": 50ms,100ms,250ms,500ms,1s
+        "[test_service_request_duration]": 50ms,100ms,250ms,500ms,1s
+  info:
+    git:
+      mode: full
+    build:
+      enabled: true
+  tracing:
+    enabled: true
+    sampling:
+      probability: 1.0
+  prometheus:
+    metrics:
+      export:
+        step: 10s
+
+# NOTE: Consider restricting exposure of loggers & threaddump in production via security.
