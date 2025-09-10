@@ -35,7 +35,6 @@ management:
     build:
       enabled: true
   tracing:
-    enabled: true
     sampling:
       probability: 1.0
   prometheus:
