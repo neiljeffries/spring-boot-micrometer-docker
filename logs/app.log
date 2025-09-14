@@ -1,0 +1,303 @@
+2025-09-14 05:05:00 INFO Booting test log
+2025-09-14 05:05:01 INFO App started
+2025-09-14 05:05:02 ERROR Something went wrong
+2025-09-14 01:25:06 INFO  c.neiljeffries.demo.DemoApplication - Starting DemoApplication using Java 21.0.5 with PID 886136 (C:\DeveloperApps\git\spring-boot-micrometer-docker\target\classes started by n_e_i in C:\DeveloperApps\git\spring-boot-micrometer-docker)
+2025-09-14 01:25:06 INFO  c.neiljeffries.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2025-09-14 01:25:06 INFO  o.s.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-09-14 01:25:06 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-09-14 01:25:06 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.11]
+2025-09-14 01:25:06 INFO  o.s.b.w.c.s.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 223 ms
+2025-09-14 01:25:07 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-09-14 01:25:07 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 6 endpoints beneath base path '/actuator'
+2025-09-14 01:25:07 INFO  o.s.boot.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-09-14 01:25:07 INFO  c.neiljeffries.demo.DemoApplication - Started DemoApplication in 0.431 seconds (process running for 695.264)
+2025-09-14 01:25:07 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2025-09-14 01:25:10 INFO  o.a.c.c.C.[Tomcat-1].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-09-14 01:25:10 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-09-14 01:25:10 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2025-09-14 01:25:12 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-09-14 01:25:12 INFO  o.s.boot.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-09-14 01:25:12 INFO  o.s.boot.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-09-14 01:25:12 INFO  c.neiljeffries.demo.DemoApplication - Starting DemoApplication using Java 21.0.5 with PID 886136 (C:\DeveloperApps\git\spring-boot-micrometer-docker\target\classes started by n_e_i in C:\DeveloperApps\git\spring-boot-micrometer-docker)
+2025-09-14 01:25:12 INFO  c.neiljeffries.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2025-09-14 01:25:12 INFO  o.s.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-09-14 01:25:12 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-09-14 01:25:12 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.11]
+2025-09-14 01:25:12 INFO  o.s.b.w.c.s.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 182 ms
+2025-09-14 01:25:12 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-09-14 01:25:12 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 6 endpoints beneath base path '/actuator'
+2025-09-14 01:25:12 INFO  o.s.boot.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-09-14 01:25:12 INFO  c.neiljeffries.demo.DemoApplication - Started DemoApplication in 0.319 seconds (process running for 701.124)
+2025-09-14 01:25:12 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2025-09-14 01:25:25 INFO  o.a.c.c.C.[Tomcat-1].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-09-14 01:25:25 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-09-14 01:25:25 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2025-09-14 01:25:35 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-09-14 01:25:35 INFO  o.s.boot.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-09-14 01:25:35 INFO  o.s.boot.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-09-14 01:25:35 INFO  c.neiljeffries.demo.DemoApplication - Starting DemoApplication using Java 21.0.5 with PID 886136 (C:\DeveloperApps\git\spring-boot-micrometer-docker\target\classes started by n_e_i in C:\DeveloperApps\git\spring-boot-micrometer-docker)
+2025-09-14 01:25:35 INFO  c.neiljeffries.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2025-09-14 01:25:36 INFO  o.s.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-09-14 01:25:36 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-09-14 01:25:36 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.11]
+2025-09-14 01:25:36 INFO  o.s.b.w.c.s.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 155 ms
+2025-09-14 01:25:36 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-09-14 01:25:36 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 6 endpoints beneath base path '/actuator'
+2025-09-14 01:25:36 INFO  o.s.boot.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-09-14 01:25:36 INFO  c.neiljeffries.demo.DemoApplication - Started DemoApplication in 0.268 seconds (process running for 724.35)
+2025-09-14 01:25:36 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2025-09-14 01:25:40 INFO  o.a.c.c.C.[Tomcat-1].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-09-14 01:25:40 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-09-14 01:25:40 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-09-14 01:27:00 INFO  c.neiljeffries.demo.DemoApplication - Starting DemoApplication using Java 21.0.5 with PID 902444 (C:\DeveloperApps\git\spring-boot-micrometer-docker\target\classes started by n_e_i in C:\DeveloperApps\git\spring-boot-micrometer-docker)
+2025-09-14 01:27:00 INFO  c.neiljeffries.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2025-09-14 01:27:01 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-09-14 01:27:01 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-09-14 01:27:02 INFO  o.s.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-09-14 01:27:02 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-09-14 01:27:02 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.11]
+2025-09-14 01:27:02 INFO  o.s.b.w.c.s.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 1164 ms
+2025-09-14 01:27:02 WARN  o.s.b.d.a.OptionalLiveReloadServer - Unable to start LiveReload server
+2025-09-14 01:27:02 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 6 endpoints beneath base path '/actuator'
+2025-09-14 01:27:02 WARN  o.s.b.w.s.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-09-14 01:27:02 INFO  o.s.b.a.l.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-09-14 01:27:02 ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2025-09-14 01:30:17 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:30:17 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:30:18 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:30:18 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:30:18 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:30:18 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:30:19 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:30:19 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:30:19 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:30:19 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:30:20 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:30:20 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:30:20 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:30:20 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:30:20 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:30:21 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:32:29 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-09-14 01:32:29 INFO  o.s.boot.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-09-14 01:32:29 INFO  o.s.boot.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-09-14 01:32:30 INFO  c.neiljeffries.demo.DemoApplication - Starting DemoApplication using Java 21.0.5 with PID 886136 (C:\DeveloperApps\git\spring-boot-micrometer-docker\target\classes started by n_e_i in C:\DeveloperApps\git\spring-boot-micrometer-docker)
+2025-09-14 01:32:30 INFO  c.neiljeffries.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2025-09-14 01:32:30 INFO  o.s.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-09-14 01:32:30 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-09-14 01:32:30 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.11]
+2025-09-14 01:32:30 INFO  o.s.b.w.c.s.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 192 ms
+2025-09-14 01:32:30 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-09-14 01:32:30 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 6 endpoints beneath base path '/actuator'
+2025-09-14 01:32:30 INFO  o.s.boot.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-09-14 01:32:30 INFO  c.neiljeffries.demo.DemoApplication - Started DemoApplication in 0.307 seconds (process running for 1138.504)
+2025-09-14 01:32:30 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2025-09-14 01:32:40 INFO  o.a.c.c.C.[Tomcat-1].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-09-14 01:32:40 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-09-14 01:32:40 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-09-14 01:33:12 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:33:12 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:33:12 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:33:13 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:33:13 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:33:13 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:33:13 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:33:14 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:33:14 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:37:11 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:37:11 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:37:11 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:37:12 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:37:12 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:37:12 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:37:12 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:37:12 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:37:13 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:37:13 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:37:13 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:37:13 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:37:13 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:37:14 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:37:14 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:37:14 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:37:14 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:37:14 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:37:15 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:37:15 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:37:15 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:37:15 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:37:16 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:38:08 INFO  o.s.boot.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-09-14 01:38:08 INFO  o.s.boot.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-09-14 01:39:15 INFO  c.neiljeffries.demo.DemoApplication - Starting DemoApplication using Java 21.0.5 with PID 906768 (C:\DeveloperApps\git\spring-boot-micrometer-docker\target\classes started by n_e_i in C:\DeveloperApps\git\spring-boot-micrometer-docker)
+2025-09-14 01:39:15 INFO  c.neiljeffries.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2025-09-14 01:39:15 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-09-14 01:39:15 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-09-14 01:39:16 INFO  o.s.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-09-14 01:39:16 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-09-14 01:39:16 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.11]
+2025-09-14 01:39:16 INFO  o.s.b.w.c.s.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 744 ms
+2025-09-14 01:39:16 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-09-14 01:39:16 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 6 endpoints beneath base path '/actuator'
+2025-09-14 01:39:16 INFO  o.s.boot.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-09-14 01:39:16 INFO  c.neiljeffries.demo.DemoApplication - Started DemoApplication in 1.588 seconds (process running for 1.899)
+2025-09-14 01:39:38 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-09-14 01:39:38 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-09-14 01:39:38 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-09-14 01:39:38 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:39:39 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:39:39 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:39:39 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:39:39 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:39:39 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:39:40 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:39:40 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:39:40 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:39:40 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:39:41 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:39:41 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:39:41 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:40:08 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:40:08 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:40:08 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:40:08 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:40:09 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:40:09 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:40:09 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:49:48 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:49:49 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:49:50 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:49:50 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:49:51 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:49:51 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:49:52 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:49:52 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:50:04 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:50:04 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:51:15 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:51:16 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:51:17 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:51:18 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:51:26 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:51:26 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:51:26 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:53:05 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:53:32 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:53:32 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:53:33 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:53:34 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:53:35 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:53:35 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:53:36 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:53:37 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:53:37 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:53:37 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:53:38 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:53:38 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:53:38 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:53:39 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:53:39 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:53:39 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:53:39 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 01:54:09 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 02:01:40 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 02:02:07 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 02:02:08 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 02:02:08 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 02:02:12 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 02:02:24 INFO  o.s.boot.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-09-14 02:02:24 INFO  o.s.boot.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-09-14 02:20:57 INFO  c.neiljeffries.demo.DemoApplication - Starting DemoApplication using Java 21.0.5 with PID 12972 (C:\DeveloperApps\git\spring-boot-micrometer-docker\target\classes started by n_e_i in C:\DeveloperApps\git\spring-boot-micrometer-docker)
+2025-09-14 02:20:57 INFO  c.neiljeffries.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2025-09-14 02:20:57 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-09-14 02:20:57 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-09-14 02:20:58 INFO  o.s.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-09-14 02:20:58 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-09-14 02:20:58 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.11]
+2025-09-14 02:20:58 INFO  o.s.b.w.c.s.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 728 ms
+2025-09-14 02:20:58 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-09-14 02:20:58 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 6 endpoints beneath base path '/actuator'
+2025-09-14 02:20:58 INFO  o.s.boot.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-09-14 02:20:58 INFO  c.neiljeffries.demo.DemoApplication - Started DemoApplication in 1.61 seconds (process running for 1.921)
+2025-09-14 02:21:00 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-09-14 02:21:00 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-09-14 02:21:00 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2025-09-14 02:26:19 INFO  o.s.boot.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-09-14 02:26:19 INFO  o.s.boot.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-09-14 02:26:35 INFO  c.neiljeffries.demo.DemoApplication - Starting DemoApplication using Java 21.0.5 with PID 969292 (C:\DeveloperApps\git\spring-boot-micrometer-docker\target\classes started by n_e_i in C:\DeveloperApps\git\spring-boot-micrometer-docker)
+2025-09-14 02:26:35 INFO  c.neiljeffries.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2025-09-14 02:26:35 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-09-14 02:26:35 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-09-14 02:26:36 INFO  o.s.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-09-14 02:26:36 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-09-14 02:26:36 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.11]
+2025-09-14 02:26:36 INFO  o.s.b.w.c.s.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 711 ms
+2025-09-14 02:26:36 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-09-14 02:26:36 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 6 endpoints beneath base path '/actuator'
+2025-09-14 02:26:37 INFO  o.s.boot.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-09-14 02:26:37 INFO  c.neiljeffries.demo.DemoApplication - Started DemoApplication in 1.654 seconds (process running for 1.962)
+2025-09-14 02:26:58 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-09-14 02:26:58 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-09-14 02:26:58 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2025-09-14 10:08:36 INFO  c.neiljeffries.demo.DemoApplication - Starting DemoApplication using Java 21.0.5 with PID 20064 (C:\DeveloperApps\git\spring-boot-micrometer-docker\target\classes started by n_e_i in C:\DeveloperApps\git\spring-boot-micrometer-docker)
+2025-09-14 10:08:36 INFO  c.neiljeffries.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2025-09-14 10:08:36 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-09-14 10:08:36 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-09-14 10:08:38 INFO  o.s.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-09-14 10:08:38 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-09-14 10:08:38 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.11]
+2025-09-14 10:08:38 INFO  o.s.b.w.c.s.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 1507 ms
+2025-09-14 10:08:38 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-09-14 10:08:38 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 6 endpoints beneath base path '/actuator'
+2025-09-14 10:08:38 INFO  o.s.boot.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-09-14 10:08:38 INFO  c.neiljeffries.demo.DemoApplication - Started DemoApplication in 3.094 seconds (process running for 4.664)
+2025-09-14 10:08:43 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-09-14 10:08:43 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-09-14 10:08:43 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-09-14 10:10:54 INFO  c.neiljeffries.demo.DemoApplication - Starting DemoApplication using Java 21.0.5 with PID 1086784 (C:\DeveloperApps\git\spring-boot-micrometer-docker\target\classes started by n_e_i in C:\DeveloperApps\git\spring-boot-micrometer-docker)
+2025-09-14 10:10:54 INFO  c.neiljeffries.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2025-09-14 10:10:54 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-09-14 10:10:54 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-09-14 10:10:55 INFO  o.s.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-09-14 10:10:55 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-09-14 10:10:55 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.11]
+2025-09-14 10:10:55 INFO  o.s.b.w.c.s.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 674 ms
+2025-09-14 10:10:55 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-09-14 10:10:55 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 6 endpoints beneath base path '/actuator'
+2025-09-14 10:10:55 INFO  o.s.boot.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-09-14 10:10:55 INFO  c.neiljeffries.demo.DemoApplication - Started DemoApplication in 1.55 seconds (process running for 2.542)
+2025-09-14 10:11:17 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-09-14 10:11:17 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-09-14 10:11:17 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-09-14 10:14:28 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
+2025-09-14 15:24:04 INFO  c.neiljeffries.demo.DemoApplication - Starting DemoApplication using Java 21.0.5 with PID 11132 (C:\DeveloperApps\git\spring-boot-micrometer-docker\target\classes started by n_e_i in C:\DeveloperApps\git\spring-boot-micrometer-docker)
+2025-09-14 15:24:04 INFO  c.neiljeffries.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2025-09-14 15:24:04 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-09-14 15:24:04 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-09-14 15:24:04 INFO  o.s.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-09-14 15:24:04 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-09-14 15:24:04 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.11]
+2025-09-14 15:24:04 INFO  o.s.b.w.c.s.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 639 ms
+2025-09-14 15:24:05 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-09-14 15:24:05 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 6 endpoints beneath base path '/actuator'
+2025-09-14 15:24:05 INFO  o.s.boot.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-09-14 15:24:05 INFO  c.neiljeffries.demo.DemoApplication - Started DemoApplication in 1.404 seconds (process running for 1.682)
+2025-09-14 15:24:13 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-09-14 15:24:13 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-09-14 15:24:13 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-09-14 15:25:05 INFO  com.neiljeffries.demo.MyController - Received request at /test endpoint
